@@ -1,0 +1,6 @@
+id,name,read,pattern,sequence,feature_type
+Hash1,sample2_C0251,R2,5PNNNNNNNNNN(BC),GTCAACTCTTTAGCG,Antibody Capture
+Hash2,sample3_C0252,R2,5PNNNNNNNNNN(BC),TGATGGCCTATTGGG,Antibody Capture
+Hash3,sample4_C0253,R2,5PNNNNNNNNNN(BC),TTCCGCCTCTCTTTG,Antibody Capture
+Hash4,sample5_C0254,R2,5PNNNNNNNNNN(BC),AGTAAGTTCAGCGTA,Antibody Capture
+Hash5,sample6_C0255,R2,5PNNNNNNNNNN(BC),AAGTATCGTTTCGCA,Antibody Capture

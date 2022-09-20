@@ -1,0 +1,61 @@
+List,Name,ID,FeatureType
+T Cell Markers,CD3D,ENSG00000167286,Gene Expression
+T Cell Markers,CD3E,ENSG00000198851,Gene Expression
+T Cell Markers,CD4,ENSG00000010610,Gene Expression
+Cytotoxic/CD8 T Cells,GNLY,ENSG00000115523,Gene Expression
+Cytotoxic/CD8 T Cells,GZMB,ENSG00000100453,Gene Expression
+Cytotoxic/CD8 T Cells,GZMH,ENSG00000100450,Gene Expression
+Cytotoxic/CD8 T Cells,CST7,ENSG00000077984,Gene Expression
+Cytotoxic/CD8 T Cells,FGFBP2,ENSG00000137441,Gene Expression
+Cytotoxic/CD8 T Cells,NKG7,ENSG00000105374,Gene Expression
+Cytotoxic/CD8 T Cells,KLRD1,ENSG00000134539,Gene Expression
+Cytotoxic/CD8 T Cells,SPON2,ENSG00000159674,Gene Expression
+Cytotoxic/CD8 T Cells,PRF1,ENSG00000180644,Gene Expression
+Cytotoxic/CD8 T Cells,CD7,ENSG00000173762,Gene Expression
+Cytotoxic/CD8 T Cells,GZMA,ENSG00000145649,Gene Expression
+B Cell Markers,CD79A,ENSG00000105369,Gene Expression
+B Cell Markers,CD79B,ENSG00000007312,Gene Expression
+Monocyte Markers,CD14,ENSG00000170458,Gene Expression
+Proliferating Erythrocytes,HBG1,ENSG00000213934,Gene Expression
+Proliferating Erythrocytes,HBG2,ENSG00000196565,Gene Expression
+PB,XBP1,ENSG00000100219,Gene Expression
+PB,PRDM1,ENSG00000057657,Gene Expression
+PB,SSR4,ENSG00000180879,Gene Expression
+PB,MZB1,ENSG00000170476,Gene Expression
+PB,FKBP11,ENSG00000134285,Gene Expression
+PB,GAB1,ENSG00000109458,Gene Expression
+PB,AQP3,ENSG00000165272,Gene Expression
+PB,PDIA4,ENSG00000155660,Gene Expression
+PB,CD38,ENSG00000004468,Gene Expression
+Memory B cells,CD79A,ENSG00000105369,Gene Expression
+Memory B cells,BCL6,ENSG00000113916,Gene Expression
+Memory B cells,TNFRSF13B,ENSG00000240505,Gene Expression
+Memory B cells,KLF2,ENSG00000127528,Gene Expression
+Memory B cells,TXNIP,ENSG00000265972,Gene Expression
+Memory B cells,CD44,ENSG00000026508,Gene Expression
+Memory B cells,CD52,ENSG00000169442,Gene Expression
+Memory B cells,CD79B,ENSG00000007312,Gene Expression
+Memory B cells,LTB,ENSG00000227507,Gene Expression
+Memory B cells,TPT1,ENSG00000133112,Gene Expression
+Memory B cells,MS4A1,ENSG00000156738,Gene Expression
+Memory B cells,BANK1,ENSG00000153064,Gene Expression
+Memory B cells,LINC00926,ENSG00000247982,Gene Expression
+Memory B cells,FAM129C,ENSG00000167483,Gene Expression
+Memory B cells,CD82,ENSG00000085117,Gene Expression
+Memory B cells,HLA-DRA,ENSG00000204287,Gene Expression
+Memory B cells,CD37,ENSG00000104894,Gene Expression
+Memory B cells,CD83,ENSG00000112149,Gene Expression
+Memory B cells,CD79B,ENSG00000007312,Gene Expression
+Leukocytes,CST7,ENSG00000077984,Gene Expression
+Leukocytes,SERPINA1,ENSG00000197249,Gene Expression
+Leukocytes,CST3,ENSG00000101439,Gene Expression
+Leukocytes,AIF1,ENSG00000204472,Gene Expression
+Leukocytes,FCN1,ENSG00000085265,Gene Expression
+Leukocytes,SMIM25,ENSG00000224397,Gene Expression
+Leukocytes,MAFB,ENSG00000204103,Gene Expression
+Leukocytes,LYZ,ENSG00000090382,Gene Expression
+Leukocytes,LILRB2,ENSG00000131042,Gene Expression
+Leukocytes,LST1,ENSG00000204482,Gene Expression
+Leukocytes,PILRA,ENSG00000085514,Gene Expression
+Leukocytes,S100A9,ENSG00000163220,Gene Expression
+Leukocytes,IFITM3,ENSG00000142089,Gene Expression

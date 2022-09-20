@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+/rds/general/user/sob19/ephemeral/fastq_gem5_6/X204SC19113528-Z01-F003/raw_data/GEX1_50,GEX1-50,Gene Expression
+/rds/general/user/sob19/ephemeral/fastq_gem5_6/X204SC19113528-Z01-F003/raw_data/FB1_50,FB1-50,Antibody Capture
